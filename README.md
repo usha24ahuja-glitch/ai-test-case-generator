@@ -26,7 +26,7 @@ Our project is built entirely on the Google Cloud Platform, leveraging the follo
 To see our prototype in action, you can follow these simple steps:
 
 1.  Click on this link to our Google Colab notebook:
-    https://colab.research.google.com/drive/1FIAfRj8wr52z5VocL0SwFtNcrUKwJ7jb?usp=sharing
+    https://colab.research.google.com/drive/11pE2y4Il3lKPrbOBeDVAN6DIYvMCJ0Ph?usp=sharing
 
 2.  Sign in with a Google account to authenticate with Google Cloud.
 
