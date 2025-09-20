@@ -26,7 +26,7 @@ Our project is built entirely on the Google Cloud Platform, leveraging the follo
 To see our prototype in action, you can follow these simple steps:
 
 1.  Click on this link to our Google Colab notebook:
-    https://colab.research.google.com/drive/11pE2y4Il3lKPrbOBeDVAN6DIYvMCJ0Ph?usp=sharing
+    https://colab.research.google.com/drive/1qXjOwXp0m5Am-xh8RSJtHV77ftWROdvy?usp=sharing
 
 2.  Sign in with a Google account to authenticate with Google Cloud.
 
@@ -36,6 +36,8 @@ The notebook will then:
 * Generate new test cases for a predefined scenario.
 * Display the AI's output in the notebook.
 * Automatically save the test cases to our Firestore database.
+## 🎥 Demo Video
+[![Watch Demo](demo_thumbnail.png)](https://drive.google.com/file/d/1prToLK0eHnoJmaGWAfTIZPGa3blfJhiw/view?usp=drive_link)
 
 ## Our Team
 
